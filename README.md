@@ -6,7 +6,7 @@ The tutorial for establishing an MCP server can be found at: https://github.com/
 
 ## Representative communication/networking tools (MCP)
 
-Despite such progress, the number of professional communication tools remains significantly scarce compared to the abundance of web- and user-centric tools (available: Mar. 14, 2026)
+Despite such progress, the number of professional communication tools remains significantly scarce compared to the abundance of web- and user-centric tools. Here, we summarize some representative tools (mostly based on model context protocol) in communication and network fields (available: Mar. 14, 2026)
 
 ### Category 1: Wireless, Drones, & Software Defined Radio (SDR)
 
