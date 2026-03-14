@@ -30,6 +30,6 @@ Despite such progress, the number of professional communication tools remains si
 | Tool Name | Optimized Description | Category | Link / Source |
 |---|---|---|---|
 | **Home Assistant** | Expose all connected smart home entities (lights, sensors, etc.) as tools for AI agents. | Smart home | [Home Assistant MCP Server](https://www.home-assistant.io/integrations/mcp_server/) |
-| **ZigBee2MQTT** | Discover all Zigbee devices, exposing their capabilities (e.g., switch and brightness). | Zigbee | [zigbee2mqtt-mcp-server](https://github.com/ichbinder/zigbee2mqtt-mcp-server) |
+| **ZigBee2MQTT** | Discover all Zigbee devices, exposing their capabilities (e.g., switch and brightness). | Zigbee | [zigbee2mqtt-mcp-server](https://github.com/ichbinder/MCP2ZigBee2MQTT) |
 | **ESP RainMaker** | Control and manage ESP32/ESP8266 devices connected to the ESP RainMaker cloud. | IoT | [esp-rainmaker-mcp](https://github.com/espressif/esp-rainmaker-mcp) |
 | **Apache IoTDB** | Manage Apache IoTDB time-series database, allowing agents to query and analyze IoT sensor data using SQL. | IoT database | [iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) |
