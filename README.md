@@ -12,7 +12,7 @@ Despite such progress, the number of professional communication tools remains si
 |---|---|---|---|
 | **FlytBase MCP** | Allow AI agents to query drone status (battery, GPS), manage missions, and access flight data/media. | UAV | [@flytbase/mcp-server](https://www.npmjs.com/package/@flytbase/mcp-server) |
 | **GNU Radio MCP** | Integrate GNU Radio flowgraphs, allowing LLMs to autonomously create, modify, and execute signal processing pipelines for SDR. | Signal processing | [gnuradio-mcp-server](https://github.com/K-CEPT/gnuradio-mcp-server) |
-| **WiFi MCP** | Provide real-time Wi-Fi information. Tools include scanning, connecting, disconnecting, and querying status. | Wireless networking | [wifi-mcp-server](https://github.com/borisyal/wifi-mcp-server) |
+| **WiFi MCP** | Provide real-time Wi-Fi information. Tools include scanning, connecting, disconnecting, and querying status. | Wireless networking | [wifi-mcp-server](https://github.com/roostercoopllc/flipper-mcp) |
 | **Bluetooth MCP** | Control Bluetooth devices and manage connections (discovery, pairing, audio controls) using natural language commands. | Wireless comm. | [bluetooth-mcp-server](https://github.com/Hypijump31/bluetooth-mcp-server) |
 
 ### Category 2: Network Diagnostics & Management
