@@ -1,5 +1,9 @@
 # Agentic_AI_Tool_Magazine
 
+For more info, please check our paper:
+
+[**Unleashing Tool Engineering and Intelligence for Agentic AI in Next-Generation Communication Networks**](https://arxiv.org/abs/2601.08259), by Yinqiu Liu, Ruichen Zhang, Dusit Niyato, Abbas Jamalipour, Trung Q. Duong, and Dong In Kim.* The paper has been submitted to IEEE Communications Magazine and is under major revision.
+
 ## Available Code:
 
 The tutorial for establishing an MCP server can be found at: https://github.com/Hornzolen/mcp-weather
