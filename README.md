@@ -20,7 +20,7 @@ Despite such progress, the number of professional communication tools remains si
 | Tool Name | Optimized Description | Category | Link / Source |
 |---|---|---|---|
 | **Globalping** | Run network diagnostic commands, such as `ping`, `traceroute`, and DNS resolve. | Network diagnostics | [globalping-mcp-server](https://github.com/jsdelivr/globalping-mcp-server) |
-| **Wireshark MCP** | Expose packet capture and protocol analysis capabilities to AI agents for traffic monitoring and diagnostics. | Network analysis | [wireshark-mcp](https://github.com/V-3/wireshark-mcp) |
+| **Wireshark MCP** | Expose packet capture and protocol analysis capabilities to AI agents for traffic monitoring and diagnostics. | Network analysis | [wireshark-mcp](https://github.com/0xKoda/WireMCP) |
 | **Netdata** | Provide network observability. Integrates metrics, logs, containers, and network connections for root cause analysis. | Network operations | [Netdata MCP](https://learn.netdata.cloud/docs/netdata-ai/mcp) |
 | **OPNSense MCP** | Enable firewall and routing management for OPNSense devices via its API, allowing agents to manage network security rules. | Network security | [opnsense-mcp-server](https://github.com/j-Soma/opnsense-mcp-server) |
 | **NetBox MCP** | Manage the NetBox database, such as configuring a company's IP addresses and physical data center equipment. | Network inventory | [netbox-mcp-rw](https://github.com/alexkiwi1/netbox-mcp-rw) |
