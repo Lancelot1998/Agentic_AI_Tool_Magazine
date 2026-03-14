@@ -1,6 +1,6 @@
 # Agentic_AI_Tool_Magazine
 
-### 📖 Citation
+### 📄 Citation
 
 If you find this repository useful, please cite our paper:
 
@@ -13,11 +13,11 @@ If you find this repository useful, please cite our paper:
 }
 ```
 
-## Available Code:
+## 🛠 Available Code:
 
 The tutorial for establishing an MCP server can be found at: https://github.com/Hornzolen/mcp-weather
 
-## Representative communication/networking tools (MCP)
+## 📖 Representative communication/networking tools (MCP)
 
 Despite such progress, the number of professional communication tools remains significantly scarce compared to the abundance of web- and user-centric tools. Here, we summarize some representative tools (mostly based on model context protocol) in communication and network fields (available: Mar. 14, 2026)
 
